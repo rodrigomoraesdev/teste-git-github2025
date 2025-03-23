@@ -1,3 +1,3 @@
 # TESTE 2025
-descrição do teste lalala
-novo exemplo
+Curso Git 2025
+Exemplo
