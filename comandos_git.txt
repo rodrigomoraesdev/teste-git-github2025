@@ -1,4 +1,4 @@
 git init. = cria repo git
 git status = status
 git add  = add arquivo
-Alterando passo 03
+Cria um repo ana
